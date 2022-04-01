@@ -1,3 +1,10 @@
+#config file
+config.py
+
+# Practice files
+API_practice.ipynb
+Practice_Random.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -5,9 +12,6 @@ __pycache__/
 
 # C extensions
 *.so
-
-#API
-config.py
 
 # Distribution / packaging
 .Python
